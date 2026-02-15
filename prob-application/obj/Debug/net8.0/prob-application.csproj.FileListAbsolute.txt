@@ -1,0 +1,11 @@
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\bin\Debug\net8.0\prob-application.deps.json
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\bin\Debug\net8.0\prob-application.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\bin\Debug\net8.0\prob-application.pdb
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.AssemblyInfoInputs.cache
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.AssemblyInfo.cs
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.csproj.CoreCompileInputs.cache
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\refint\prob-application.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.pdb
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\ref\prob-application.dll

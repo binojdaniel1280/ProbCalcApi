@@ -1,0 +1,16 @@
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-api
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\appsettings.Development.json
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\appsettings.json
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-api.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-api.deps.json
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-api.runtimeconfig.json
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-api.pdb
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-application.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-infrastructure.dll
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-application.pdb
+e:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\linux-x64\publish\prob-infrastructure.pdb

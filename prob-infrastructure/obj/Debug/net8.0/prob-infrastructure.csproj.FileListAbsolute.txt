@@ -1,0 +1,15 @@
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\bin\Debug\net8.0\prob-infrastructure.deps.json
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\bin\Debug\net8.0\prob-infrastructure.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\bin\Debug\net8.0\prob-infrastructure.pdb
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\bin\Debug\net8.0\prob-application.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\bin\Debug\net8.0\prob-application.pdb
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.csproj.AssemblyReference.cache
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.AssemblyInfoInputs.cache
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.AssemblyInfo.cs
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.csproj.CoreCompileInputs.cache
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-inf.7F1717C9.Up2Date
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\refint\prob-infrastructure.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.pdb
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\ref\prob-infrastructure.dll
