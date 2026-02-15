@@ -1,6 +1,6 @@
 
 
-namespace Prob.Infrastructure.Logging;
+
 
 public class FileLogService : ILogService
 {
