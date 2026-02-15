@@ -1,9 +1,22 @@
+
+
+namespace Prob.Infrastructure.Logging;
+
 public class FileLogService : ILogService
 {
-    private readonly string _file = "logs.txt";
+    private readonly string _filePath;
+
+    public FileLogService()
+    {
+        var home = Environment.GetEnvironmentVariable("HOME") ?? "";
+        _filePath = Path.Combine(home, "LogFiles", "logs.txt");
+    }
 
     public void Log(string message)
     {
-        File.AppendAllText(_file, message + Environment.NewLine);
+        Directory.CreateDirectory(Path.GetDirectoryName(_filePath)!);
+
+        File.AppendAllText(_filePath,
+            $"{DateTime.Now:yyyy-MM-dd HH:mm:ss} | {message}{Environment.NewLine}");
     }
 }

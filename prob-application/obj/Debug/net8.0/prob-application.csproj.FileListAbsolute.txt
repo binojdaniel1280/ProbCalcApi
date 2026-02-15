@@ -9,3 +9,4 @@ E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-ap
 E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\refint\prob-application.dll
 E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.pdb
 E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\ref\prob-application.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-application\obj\Debug\net8.0\prob-application.sourcelink.json

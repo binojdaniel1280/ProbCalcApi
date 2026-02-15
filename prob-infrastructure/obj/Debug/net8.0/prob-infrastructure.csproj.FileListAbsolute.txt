@@ -13,3 +13,4 @@ E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob
 E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\refint\prob-infrastructure.dll
 E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.pdb
 E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\ref\prob-infrastructure.dll
+E:\Binoj\StudyProjects\ProbCalcProject\prob-infrastructure\obj\Debug\net8.0\prob-infrastructure.sourcelink.json

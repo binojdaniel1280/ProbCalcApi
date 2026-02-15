@@ -36,3 +36,4 @@ E:\Binoj\StudyProjects\ProbCalcProject\prob-api\obj\Debug\net8.0\prob-api.pdb
 E:\Binoj\StudyProjects\ProbCalcProject\prob-api\obj\Debug\net8.0\prob-api.genruntimeconfig.cache
 E:\Binoj\StudyProjects\ProbCalcProject\prob-api\obj\Debug\net8.0\ref\prob-api.dll
 E:\Binoj\StudyProjects\ProbCalcProject\prob-api\bin\Debug\net8.0\Config\operations.json
+E:\Binoj\StudyProjects\ProbCalcProject\prob-api\obj\Debug\net8.0\prob-api.sourcelink.json
